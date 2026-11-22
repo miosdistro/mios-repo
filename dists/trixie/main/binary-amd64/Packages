@@ -18,6 +18,25 @@ MD5sum: 76f489a529ca7f41683f614484f5e452
 Description: 
   A futuristic, liquid-glass aesthetic music player for Linux
 
+Package: librewolf
+Version: 160.0-1
+License: MPL
+Vendor: LibreWolf Community
+Architecture: amd64
+Maintainer: <@234d53d6bfd3>
+Installed-Size: 481198
+Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.28), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.6), libgcc1 (>= 1:4.5), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.13.7), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 5), libx11-6, libx11-xcb1, libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.3-1), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1
+Provides: www-browser, gnome-www-browser
+Homepage: https://librewolf.net/
+Priority: optional
+Section: web
+Filename: pool/main/libr/librewolf/librewolf_160.0-1_amd64.deb
+Size: 104857080
+SHA256: 4b6120ea9007202bd728e350c25baedb635470fd73ca95cd81d8e329f0afcc11
+SHA1: d50819f369ce691484506af0fce6665ef07b363a
+MD5sum: 899396e32cbca5be4800f2672e788ae1
+Description: The LibreWolf browser for privacy, with uBlock and tweaked settings.
+
 Package: localsend
 Maintainer: Tienisto <dev.tien.donam@gmail.com>
 Version: 1.18.2+64

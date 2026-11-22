@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: miOS GNU/Linux
 Label: miOS Official Repository
 Codename: trixie
-Date: Sun, 22 Nov 2026 03:07:53 UTC
+Date: Sun, 22 Nov 2026 20:31:15 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)
 MD5Sum:
- 676ed48c356c6f26809a7484580a6dd8 4757 main/binary-amd64/Packages
- fcb34dcf38ab689efbed536ed88bf3be 2155 main/binary-amd64/Packages.gz
+ d00c195e2dc3c65f9213a79c07cf220e 5944 main/binary-amd64/Packages
+ a81d08b68a0ac6548039f6909402ee60 2651 main/binary-amd64/Packages.gz
  6ef567890716765c4855a45d12804a31 166 main/binary-amd64/Release
  cc531059094ebfca3a2613b86d6fdaf0 3284 main/binary-arm64/Packages
  4d0775031cbb5b1308b25bc5e83617e2 1510 main/binary-arm64/Packages.gz
  64ac2f410b067adde4960acc64370c7c 166 main/binary-arm64/Release
 SHA1:
- 9a0e4d52eefe7e4146b73bcd6b59071e5fb3ab54 4757 main/binary-amd64/Packages
- d6c91fdcb5b786f3c7ee4c2f1c7aa7d0d5b6ca2d 2155 main/binary-amd64/Packages.gz
+ 94a741b818830030769f11e567793f3651dac1a7 5944 main/binary-amd64/Packages
+ 3f816b72f70e3f297d1356f7793c4bd32ee252ab 2651 main/binary-amd64/Packages.gz
  60c81114dc754927422d5aad4050ffd7d8b29222 166 main/binary-amd64/Release
  27691804e4de46e8035ff62e7a7ac95a40b1bba6 3284 main/binary-arm64/Packages
  8a0ce67cc8a155eb6c587f464ab8a066ae714b6d 1510 main/binary-arm64/Packages.gz
  430365e4ebacc870ae72ae935bdb5aa2883707d4 166 main/binary-arm64/Release
 SHA256:
- 21ad572999447ea4d2ed629990e6189c279521e62cf5eff38b16758423805145 4757 main/binary-amd64/Packages
- b43fededd276c54bd885c4b5bb58e759b26a91f1dcb0145bfe4d28c3dfcabad2 2155 main/binary-amd64/Packages.gz
+ 270270c2ba3c4dc01ec5b6352555cf247de67d4d72091c78e581ac694d3d8b9f 5944 main/binary-amd64/Packages
+ 880cd099cbf0261eec6dd44d8868f9fd325b5940b8c18b27cac2a0d4fa0e7fff 2651 main/binary-amd64/Packages.gz
  3e2235923f1afbc3811d99206b65bb05ca99e1a4fa6de701cbbc3caaec7671dd 166 main/binary-amd64/Release
  87ce5e91d0522c3d0d83869344b165584195ca994ff788e5d20e360404037b7a 3284 main/binary-arm64/Packages
  3470c66f2c051e506320221b7162c8e0be4a846851d0f243ce1edae14ca260d9 1510 main/binary-arm64/Packages.gz
  e6c0c3b7146c7c817c3bf1ac5884747fc4c4479529848140814d713acdd7016c 166 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsCXIoACgkQHX4eNXrv
-9Wn2Bg//XB2SDOZTfcNwm8TfVoClo0vKsEr+/ioG9O18fNvpVFDo16SVtjYPy5d5
-fMLP5YViGAfZ4hdYK2M2G/E1WmEauqVKHsAyd1V2VaRn0slznvMoKJ7k2JucKL5/
-ZMtbQwDJSb4PrW7J/CoypN8BCvHe65cXtKfcow2z1aZlP98IcaISieZuyErDbHgy
-2YyATG2fNrAppi2MXGnxNYYWS/rCPFVmN4BgqfrUru6UJcAw/djYoIojE6jUjsIh
-kAyh0eSbSoxxNOGD9Rbny3/GJncAuqQS+fXJ3vg29gkIPmtw1PTkA0QOVYleWX2B
-eUqhS6MkZaklC9e+S5nds9XFbYERGrmMiHrDw6HdVBSZVY8xbZWn/abqyHvSrNTh
-Jg26TVoKtybZKR1X7+2uz/4S0qJ9+mfRAd+TTQ3c7tr6/TQUwI4Y191bG2cmo2ec
-VEC1EWq2y28DzfmJmWgKFjHYuagaAASrTqwYYL1S2mcEHKEioZqwyireeL76nwpb
-JF/cSyHyOd5YfH3O6oGlAl+Rq/uy0jWv2IRXUFJyUFNVhYZg7t7RRjeRe7+z7eu3
-JUAYyot76Nox6P3O1JrffJFo4P2TFZ3SyR7OB9fPusgKsXL4mP1ysp1SeaMEUPV5
-x8Ecsh6IS3jX4923B3Pn7TAZP/3HjFgkvwB1t68MC5NYhBSn1VA=
-=gp96
+iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsDURsACgkQHX4eNXrv
+9Wm5Ig//cjS/5xD6U1YYLgl3QzKYRk3AK4tNCDoI7m6znDXMYGfUzp5NcXpzhsfV
+Up3qHSDEVgAozbEZQ+M0iXYuF73zYu1Tr2jZtcvKovKhhDJrIoS5kjIp8GeUOcmk
+XBYLe/VD7wFxGG16ouMsqwM8s11H4kpBC/KTUO7506UlfOB4TQRedv8Yi9oShNqa
+gf8i5LXbT8kj5bE6NLDHWObKVQesjXTI4+ehsFGPwnI/dxQBhnCM6Vu1yEXc7Sc1
+hzq4GwJrpAAqoH1tYdU6oZyFua6POPoNgEr8cT8UcNJq2mhUbVuKfFLXOMxAdECQ
+C83AHesgyu17Z/TmBkpiIe8rJvo5X1QuzKEMX2fAuM4BOKVEjB/JFIjg+9j8thf5
+fNFoXvixpFH4kseIBalOGVAaLIIXJJYP/eo6SeoJ2A0qW3PKcku+7WL32jXGdinG
+mnot2JulunOOErK6SrhsWLWuwTAJdPopcLU+k8kHvdB3MuZqna3NbpFZY5AUWz25
+46RQu2YhMxOEXNOaQ+PiWxUA2wJlGuVK3RAqyH0Xy9fD7sGIid05pvzk29LnvtZM
+IrL6oNgdjlGk3oCGmp77KjU6k1iuW6WHU8c8yPG5sVIVLpFF4PPpDzAF6BY5+Lua
+Ni+EucCtEXU8QwWyklNrRxVXruHBs3m4WKble/dzKwieFoVwpPY=
+=+Hec
 -----END PGP SIGNATURE-----
