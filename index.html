@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Repositorio Oficial - miOS GNU/Linux</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #0f172a; color: #e2e8f0; }
+    h1 { color: #38bdf8; }
+    pre { background: #1e293b; padding: 15px; border-radius: 8px; overflow-x: auto; }
+    a { color: #7dd3fc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    li { margin: 8px 0; }
+  </style>
+</head>
+<body>
+  <h1>Repositorio Oficial de miOS GNU/Linux</h1>
+  <p>Base: Debian 13 (Trixie) &amp; Debian 12 (Bookworm)</p>
+  <h2>Descargas directas</h2>
+  <ul>
+    <li><a href="/mios.gpg">Llave pública GPG (mios.gpg)</a></li>
+    <li><a href="/pool/main/m/mios-desktop/mios-desktop_2.1_all.deb">mios-desktop_2.1_all.deb</a></li>
+    <li><a href="/pool/main/m/mios-base-files/mios-base-files_2.1+mios1_all.deb">mios-base-files_2.1+mios1_all.deb</a></li>
+    <li><a href="/pool/main/m/mios-archive-keyring/mios-archive-keyring_2.1_all.deb">mios-archive-keyring_2.1_all.deb</a></li>
+  </ul>
+  <h2>Añadir a Debian / miOS</h2>
+  <pre>curl -fsSL https://pages.dev | sudo gpg --yes --dearmor -o /usr/share/keyrings/mios-archive-keyring.gpg</pre>
+</body>
+</html>
