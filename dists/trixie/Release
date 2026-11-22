@@ -1,27 +1,27 @@
 Origin: miOS GNU/Linux
 Label: miOS Official Repository
 Codename: trixie
-Date: Sun, 22 Nov 2026 20:31:15 UTC
+Date: Sun, 22 Nov 2026 20:53:01 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)
 MD5Sum:
- d00c195e2dc3c65f9213a79c07cf220e 5944 main/binary-amd64/Packages
- a81d08b68a0ac6548039f6909402ee60 2651 main/binary-amd64/Packages.gz
+ 1dc2774d44164db29a891d48f2c6ca91 5212 main/binary-amd64/Packages
+ 5d443222605d6dc326389c5cb78710cd 2349 main/binary-amd64/Packages.gz
  6ef567890716765c4855a45d12804a31 166 main/binary-amd64/Release
  cc531059094ebfca3a2613b86d6fdaf0 3284 main/binary-arm64/Packages
  4d0775031cbb5b1308b25bc5e83617e2 1510 main/binary-arm64/Packages.gz
  64ac2f410b067adde4960acc64370c7c 166 main/binary-arm64/Release
 SHA1:
- 94a741b818830030769f11e567793f3651dac1a7 5944 main/binary-amd64/Packages
- 3f816b72f70e3f297d1356f7793c4bd32ee252ab 2651 main/binary-amd64/Packages.gz
+ 8eba468bd03cf40db579d7771e114bbf791a3217 5212 main/binary-amd64/Packages
+ 018611bc3267235913f83b2858524751f7ae64ed 2349 main/binary-amd64/Packages.gz
  60c81114dc754927422d5aad4050ffd7d8b29222 166 main/binary-amd64/Release
  27691804e4de46e8035ff62e7a7ac95a40b1bba6 3284 main/binary-arm64/Packages
  8a0ce67cc8a155eb6c587f464ab8a066ae714b6d 1510 main/binary-arm64/Packages.gz
  430365e4ebacc870ae72ae935bdb5aa2883707d4 166 main/binary-arm64/Release
 SHA256:
- 270270c2ba3c4dc01ec5b6352555cf247de67d4d72091c78e581ac694d3d8b9f 5944 main/binary-amd64/Packages
- 880cd099cbf0261eec6dd44d8868f9fd325b5940b8c18b27cac2a0d4fa0e7fff 2651 main/binary-amd64/Packages.gz
+ 8bc1e3582688069d947b2fe8ae1440ce5e404e1e2cad570d70053758c7ddd8dd 5212 main/binary-amd64/Packages
+ 83cbd0e2665841d54450c524e97ca42a286b6f11c84b9ea757519bf306acf42a 2349 main/binary-amd64/Packages.gz
  3e2235923f1afbc3811d99206b65bb05ca99e1a4fa6de701cbbc3caaec7671dd 166 main/binary-amd64/Release
  87ce5e91d0522c3d0d83869344b165584195ca994ff788e5d20e360404037b7a 3284 main/binary-arm64/Packages
  3470c66f2c051e506320221b7162c8e0be4a846851d0f243ce1edae14ca260d9 1510 main/binary-arm64/Packages.gz
