@@ -1,27 +1,27 @@
 Origin: miOS GNU/Linux
 Label: miOS Official Repository
 Codename: trixie
-Date: Sun, 22 Nov 2026 00:24:21 UTC
+Date: Sun, 22 Nov 2026 01:31:26 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)
 MD5Sum:
- f65fe232cd0df84d195faa3a333fcdac 1784 main/binary-amd64/Packages
- 954d8e86ac5cd0661747ea0ce6f473fb 798 main/binary-amd64/Packages.gz
+ d642509797e1507419e0f99a2f30a198 2525 main/binary-amd64/Packages
+ e7dfe6ac4d302f1606790d9deaecd978 1143 main/binary-amd64/Packages.gz
  6ef567890716765c4855a45d12804a31 166 main/binary-amd64/Release
  f65fe232cd0df84d195faa3a333fcdac 1784 main/binary-arm64/Packages
  954d8e86ac5cd0661747ea0ce6f473fb 798 main/binary-arm64/Packages.gz
  64ac2f410b067adde4960acc64370c7c 166 main/binary-arm64/Release
 SHA1:
- f27dcd493009465c50b8bf568875ca59c9a624ff 1784 main/binary-amd64/Packages
- 7f333dc7a29ff05195734311422615eef896fcaf 798 main/binary-amd64/Packages.gz
+ 7aa5c8efe3174ce9f065f640211cc3b0205f1d1b 2525 main/binary-amd64/Packages
+ 5673531ec854e2c15e070fa1f55b5244f08dc90c 1143 main/binary-amd64/Packages.gz
  60c81114dc754927422d5aad4050ffd7d8b29222 166 main/binary-amd64/Release
  f27dcd493009465c50b8bf568875ca59c9a624ff 1784 main/binary-arm64/Packages
  7f333dc7a29ff05195734311422615eef896fcaf 798 main/binary-arm64/Packages.gz
  430365e4ebacc870ae72ae935bdb5aa2883707d4 166 main/binary-arm64/Release
 SHA256:
- 0566c14b8fb849c282b9d632b55e781f2cb5bc27505dc32079173d1935a0a1b6 1784 main/binary-amd64/Packages
- 8316ad84695a771d08d6e3003db149ac66b808772adfaa436f94e69720d0cfbe 798 main/binary-amd64/Packages.gz
+ b30c33bf703e939ce34689ed59c5093310d27780a5313b953944be11bd0ff91d 2525 main/binary-amd64/Packages
+ 66b9220c2ddd32e3d03f55b0bbbf53e1eaba071a379f335f6883672b22dfac0d 1143 main/binary-amd64/Packages.gz
  3e2235923f1afbc3811d99206b65bb05ca99e1a4fa6de701cbbc3caaec7671dd 166 main/binary-amd64/Release
  0566c14b8fb849c282b9d632b55e781f2cb5bc27505dc32079173d1935a0a1b6 1784 main/binary-arm64/Packages
  8316ad84695a771d08d6e3003db149ac66b808772adfaa436f94e69720d0cfbe 798 main/binary-arm64/Packages.gz

@@ -1,3 +1,22 @@
+Package: localsend
+Maintainer: Tienisto <dev.tien.donam@gmail.com>
+Version: 1.18.2+64
+Architecture: amd64
+Essential: no
+Installed-Size: 30600
+Priority: optional
+Section: x11
+Filename: pool/main/l/localsend/localsend_1.18.2+64_amd64.deb
+Size: 24665458
+SHA256: cc42a4f3eacdcb25ec31f0016b1272acb003145ab30484db8965450e20c72cd2
+SHA1: a22fbc5c01e4f10215e0e15253e91c3769f888ba
+MD5sum: a410fa2d461a583b07dc7994e4207db5
+Description: An open source cross-platform alternative to AirDrop
+Homepage: https://localsend.org/
+Depends: libappindicator3-1 | libayatana-appindicator3-1, gir1.2-appindicator3-0.1 | gir1.2-ayatanaappindicator3-0.1, libayatana-ido3-0.4-0, xdg-user-dirs
+Pre-Depends: libc6 (>= 2.31)
+Uploaders: TheGB0077 <gb.lima.dev@gmail.com>
+
 Package: mios-archive-keyring
 Version: 2.1
 Architecture: all
