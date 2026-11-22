@@ -1,0 +1,47 @@
+Package: mios-archive-keyring
+Version: 2.1
+Architecture: all
+Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
+Priority: optional
+Section: misc
+Filename: pool/main/m/mios-archive-keyring/mios-archive-keyring_2.1_all.deb
+Size: 3254
+SHA256: ae3ecec67ceadeb5d7a54b6a64cf212277e2173e207efc2ef01792b9f9b84a19
+SHA1: 7b618a35798496739b97abba9fef8022f4105ee0
+MD5sum: bc8de14581458434d54df05a703a9725
+Description: Archive key and APT source for miOS GNU/Linux
+ Configures the official miOS Trixie package repository and its signing key.
+Homepage: https://mios-repo.pages.dev
+
+Package: mios-base-files
+Version: 1:2.1+mios1
+Architecture: all
+Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
+Replaces: base-files
+Priority: required
+Section: admin
+Filename: pool/main/m/mios-base-files/mios-base-files_2.1+mios1_all.deb
+Size: 1008
+SHA256: a6a86e6574240fb32c1c3a821515b8b9e86ffa54789e6d3b4fbe88f7df8c4fa1
+SHA1: 3e7df2e6436caf002e4483b40c4e86eb0d577dbd
+MD5sum: aef9f951d9664dcb7588a842c94fec54
+Description: miOS GNU/Linux system identity files
+ Provides the miOS release identity, issue banner, and APT preferences.
+Homepage: https://mios-repo.pages.dev
+
+Package: mios-desktop
+Version: 2.1
+Architecture: all
+Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
+Depends: mios-base-files (= 1:2.1+mios1), mios-archive-keyring (= 2.1)
+Priority: optional
+Section: metapackages
+Filename: pool/main/m/mios-desktop/mios-desktop_2.1_all.deb
+Size: 640
+SHA256: 95d36af803b20b5788a41754388cfa40721b61ebcefef45c7eb5a5ff15433cff
+SHA1: 111661e1c3588ecd9c92b1ec2991438dc2aef857
+MD5sum: 119497848864690dd6577456ac0da641
+Description: miOS GNU/Linux desktop system metapackage
+ Installs and tracks the essential miOS identity and repository configuration.
+Homepage: https://mios-repo.pages.dev
+

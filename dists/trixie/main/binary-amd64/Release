@@ -1,0 +1,5 @@
+Component: main
+Origin: miOS GNU/Linux
+Label: miOS Official Repository
+Architecture: amd64
+Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)

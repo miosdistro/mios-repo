@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: miOS GNU/Linux
+Label: miOS Official Repository
+Codename: bookworm
+Date: Sun, 22 Nov 2026 00:03:07 UTC
+Architectures: amd64 i386
+Components: main
+Description: Repositorio oficial de miOS GNU/Linux (Base Debian 12 Bookworm)
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 0bbf11d007c0564d62958b9e3ab06e7e 168 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ d938674730da2e716a6ebc8d75fbe9e3 167 main/binary-i386/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ fed437e2b15fa09d5beebd963198691522e0254d 168 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 323d24c199474601eda6f899ec1a711a91e0cd45 167 main/binary-i386/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 6ae6dffba6180eec5470e53bbc817922922f6f82bb129d314a17bffec5e92ce0 168 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 79fd0d1dd87248fd381966088d42fa186ce2c0203cc481f912342cdd0017d308 167 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsCMTwACgkQHX4eNXrv
+9Wl+gQ//XusR0/oI6/PFU/lIEnEno6vouDYkIQWPr20J+qu5a90GeoRxN0UVHKRd
+zH4nCo5IW12iCNfLtmiqjwy0yWgx6SJjF6RzvgoByRrbGjlEBYngG6DCDcLV/y0x
+R+rUHWX+g3KSwqR9BZiOB3F5sBX2j94WJx7WgbLSqZj8kxeFcahpoZY6bR4v/1Zs
+YARHu5Oznmvgsq/4RzBnl6jz2cRxz6bMJa/8fkGUvLgmsrz2wq2FoNzKkuCDc9R8
+m2XSgB01iq33iJsQ2Qvv2Jo6KsH7XEwTIWGwMIon1KQ5fc3l8FoqAWTa09gxlNbe
+ApkI/uqX6j7pJYsNv8rcoemBdLErAU+R4csZTmdC6UWFXUoT6jjQ7jZ+SodkE3ro
+mfqO+VG/fi922tNv6EERMA4ancHhpClej6CWJI0+lBOa/sUW0XmOognA+KTK08rO
+R6LeZkS9H/lOZ072LkVcpbXvgTERkFskFG87ispYXwdSHuQw3nhLQtQnQAeVvGte
+ZEw3KLPm8MrrmFTr3SPvBPUuRT6k9vNmd9iZmSBLjOkiI/8BqyJZPfxvveWIU+m0
+TJ6ELQBH4sYMZYzrNE5kQrCKmXFjp5IT+vQwmEgpp//tNCnaCuBB3YmA1gRk0eEH
+3keFJeZqSzX//ay2SSyVDIlZ0pwPW/oNe5BYXEOhW08dPo3ioLk=
+=tjTu
+-----END PGP SIGNATURE-----
