@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: miOS GNU/Linux
 Label: miOS Official Repository
 Codename: trixie
-Date: Sun, 22 Nov 2026 03:00:21 UTC
+Date: Sun, 22 Nov 2026 03:07:53 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)
 MD5Sum:
- b341eeaba160d8264989e0b771652862 3916 main/binary-amd64/Packages
- 877470cbd47e7aea61a22a10f7aaa047 1716 main/binary-amd64/Packages.gz
+ 676ed48c356c6f26809a7484580a6dd8 4757 main/binary-amd64/Packages
+ fcb34dcf38ab689efbed536ed88bf3be 2155 main/binary-amd64/Packages.gz
  6ef567890716765c4855a45d12804a31 166 main/binary-amd64/Release
- bec71fb6a4b49520a61141ce452cd55f 2443 main/binary-arm64/Packages
- 0e63c0cbca9f6ed66d51ec64cf39ba19 1065 main/binary-arm64/Packages.gz
+ cc531059094ebfca3a2613b86d6fdaf0 3284 main/binary-arm64/Packages
+ 4d0775031cbb5b1308b25bc5e83617e2 1510 main/binary-arm64/Packages.gz
  64ac2f410b067adde4960acc64370c7c 166 main/binary-arm64/Release
 SHA1:
- 68db286250e197888cc9387754458e3dbe8476a8 3916 main/binary-amd64/Packages
- 33e046f0e765ad905b777c12f0ae0eb995fc4e7c 1716 main/binary-amd64/Packages.gz
+ 9a0e4d52eefe7e4146b73bcd6b59071e5fb3ab54 4757 main/binary-amd64/Packages
+ d6c91fdcb5b786f3c7ee4c2f1c7aa7d0d5b6ca2d 2155 main/binary-amd64/Packages.gz
  60c81114dc754927422d5aad4050ffd7d8b29222 166 main/binary-amd64/Release
- 57c9ddd152d2f2194bf36346f95080c5e0bccc00 2443 main/binary-arm64/Packages
- 93744781ed3ade3f4cc8175af1e7eb816c2d37b0 1065 main/binary-arm64/Packages.gz
+ 27691804e4de46e8035ff62e7a7ac95a40b1bba6 3284 main/binary-arm64/Packages
+ 8a0ce67cc8a155eb6c587f464ab8a066ae714b6d 1510 main/binary-arm64/Packages.gz
  430365e4ebacc870ae72ae935bdb5aa2883707d4 166 main/binary-arm64/Release
 SHA256:
- 9f3f3e220b7ee236c6fc9e6182b1d36868d50b4eeec3335c67516b76eabe8805 3916 main/binary-amd64/Packages
- 102c03c613f96c5dbc3c5bf1399a4c28681df81fa687d302e5d769dbca324dc8 1716 main/binary-amd64/Packages.gz
+ 21ad572999447ea4d2ed629990e6189c279521e62cf5eff38b16758423805145 4757 main/binary-amd64/Packages
+ b43fededd276c54bd885c4b5bb58e759b26a91f1dcb0145bfe4d28c3dfcabad2 2155 main/binary-amd64/Packages.gz
  3e2235923f1afbc3811d99206b65bb05ca99e1a4fa6de701cbbc3caaec7671dd 166 main/binary-amd64/Release
- ce997da5a2de5afca75b037da3f503787e280650eced60b53b9461685195857c 2443 main/binary-arm64/Packages
- b1d6c61aa2f308b05cb1edc51cc00ed1194f4d3df9a97e5e66c04a9867caf321 1065 main/binary-arm64/Packages.gz
+ 87ce5e91d0522c3d0d83869344b165584195ca994ff788e5d20e360404037b7a 3284 main/binary-arm64/Packages
+ 3470c66f2c051e506320221b7162c8e0be4a846851d0f243ce1edae14ca260d9 1510 main/binary-arm64/Packages.gz
  e6c0c3b7146c7c817c3bf1ac5884747fc4c4479529848140814d713acdd7016c 166 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsCWsUACgkQHX4eNXrv
-9Wnd1Q/9FvIXjUyTHIeGnG/w6u10v64zFGUDN6QiT3Hew05jQ8JkcntQTD5V56qj
-XpKaaqPz9NR8G5X8vkNCtTLMV1dgXHeFk3Va2mrvLKExr10VCPitxpO0d+0rb8pg
-g067An2CDsJmi6LJOPe2gx6FcZisPspbA8YvGvUQwyfx8O4pVkjhVEItV+Zp1yRT
-1FWIvwCdGLxwDORplEBrzBiDd3B9iQczUDXsjq3qIqqh0aNvP0yQA7lR+jsqPQeP
-ZyHyXBePl5Ae9OhqfDlSGBCSFIyc3JGv2XtkDhTAnld7JvxH/UktoD0ljWlwXGov
-+2B/Cj+zjgDsgjOZ7lZa7ajkQt9dVABApieIz1zC+16K9sv2Ke8J5Ia9DkzuWCFj
-2YY+2qjViKkgjsX/HKMXZl3R1BsG02ns4FabqcrHecQl8u7ND47RaE8AYKvbSKyQ
-RcTGoqokmvURa9LM4RUI9qKH17tgNtDCSpXZFEy1kkLdya7t106BsdxDIcTm3qyF
-AfnHFjlxIxlYPFFGQWaJSLj7oTS0TIGMPl7NA+g4HM9Fz7NeIz/c/+V0MbefIXFs
-JWcV2nsT92uv2W9epzCoJiNTwpYvHB/KaR9DVkab478MJlvTXlYD/yGBXgJXWR6O
-S4aU9yLcidz0FXrOB1cKyT3buhJVPjTZPmuKwi+A5SofdlVK67k=
-=BTSq
+iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsCXIoACgkQHX4eNXrv
+9Wn2Bg//XB2SDOZTfcNwm8TfVoClo0vKsEr+/ioG9O18fNvpVFDo16SVtjYPy5d5
+fMLP5YViGAfZ4hdYK2M2G/E1WmEauqVKHsAyd1V2VaRn0slznvMoKJ7k2JucKL5/
+ZMtbQwDJSb4PrW7J/CoypN8BCvHe65cXtKfcow2z1aZlP98IcaISieZuyErDbHgy
+2YyATG2fNrAppi2MXGnxNYYWS/rCPFVmN4BgqfrUru6UJcAw/djYoIojE6jUjsIh
+kAyh0eSbSoxxNOGD9Rbny3/GJncAuqQS+fXJ3vg29gkIPmtw1PTkA0QOVYleWX2B
+eUqhS6MkZaklC9e+S5nds9XFbYERGrmMiHrDw6HdVBSZVY8xbZWn/abqyHvSrNTh
+Jg26TVoKtybZKR1X7+2uz/4S0qJ9+mfRAd+TTQ3c7tr6/TQUwI4Y191bG2cmo2ec
+VEC1EWq2y28DzfmJmWgKFjHYuagaAASrTqwYYL1S2mcEHKEioZqwyireeL76nwpb
+JF/cSyHyOd5YfH3O6oGlAl+Rq/uy0jWv2IRXUFJyUFNVhYZg7t7RRjeRe7+z7eu3
+JUAYyot76Nox6P3O1JrffJFo4P2TFZ3SyR7OB9fPusgKsXL4mP1ysp1SeaMEUPV5
+x8Ecsh6IS3jX4923B3Pn7TAZP/3HjFgkvwB1t68MC5NYhBSn1VA=
+=gp96
 -----END PGP SIGNATURE-----
