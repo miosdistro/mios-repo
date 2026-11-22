@@ -1,3 +1,83 @@
+Package: craft-anything
+Version: 0.6.1-1
+Architecture: amd64
+Maintainer: Craft Anything maintainers <craft-anything@storyteller.ai>
+Installed-Size: 136927
+Depends: libc6 (>= 2.35), libgcc-s1, libxkbcommon0, libxkbcommon-x11-0, libwayland-client0, libx11-6, libx11-xcb1, libxcb1, libxcursor1, libxi6, libvulkan1 | libegl1
+Recommends: mesa-vulkan-drivers, libegl-mesa0, xdg-desktop-portal
+Homepage: https://getartcraft.com/apps/craft-anything
+Priority: optional
+Section: devel
+Filename: pool/main/c/craft-anything/craft-anything_0.6.1-1_amd64.deb
+Size: 71411420
+SHA256: b9a4795a7c294bd266ad7e53d53d6f6761ac3d0207ee82d37b3c578463be8e4b
+SHA1: 31e4b9066b15cd2d1a071a1938f21528fbc199db
+MD5sum: a673cbb037b380ca2347a020f3f54900
+Description: Find out how any software works, then craft your own.
+ Evidence-backed answers about programs, apps, files, websites and phones
+ (executables, archives, web bundles, Android packages, WebAssembly), from a
+ native desktop app, a CLI and an MCP server.
+
+Package: freetube
+Version: 0.26.0
+License: AGPL-3.0-or-later
+Vendor: FreeTube Team <noreply@example.com>
+Architecture: amd64
+Maintainer: FreeTube Team <noreply@example.com>
+Installed-Size: 294123
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://github.com/FreeTubeApp/FreeTube#readme
+Priority: optional
+Section: default
+Filename: pool/main/f/freetube/freetube_0.26.0_amd64.deb
+Size: 101570648
+SHA256: b8ae0441283843ada8b6506792cb2c872637a26cd73fffaa2ce19c42e617daa3
+SHA1: 59e2a041936f383f920f57a4f15ca423a328f22e
+MD5sum: 21dbc4d0ee3776ed687257d7141d51d7
+Description: 
+  A private YouTube client
+
+Package: glass-music
+Version: 3.0.0
+License: unknown
+Vendor: Glass Music Team <info@glassmusic.app>
+Architecture: amd64
+Maintainer: Glass Music Team <info@glassmusic.app>
+Installed-Size: 391809
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://github.com/glass-music/app
+Priority: optional
+Section: default
+Filename: pool/main/g/glass-music/glass-music_3.0.0_amd64.deb
+Size: 88427530
+SHA256: 21ae12f300179cc6b2d375880a26b0ecba40611d69310be4ba5da26fe0516bf7
+SHA1: 0973afdfb59076ac2ad0487d1a0f27ffe7543217
+MD5sum: 76f489a529ca7f41683f614484f5e452
+Description: 
+  A futuristic, liquid-glass aesthetic music player for Linux
+
+Package: glassy-music-nankill
+Version: 4.1.1
+License: GPL-3.0
+Vendor: nankill <nankill@nankill.xyz>
+Architecture: amd64
+Maintainer: nankill <nankill@nankill.xyz>
+Installed-Size: 369375
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libasound2, libgbm1
+Recommends: libappindicator3-1
+Homepage: https://github.com/NanKillBro/glassy-music-nankill#readme
+Priority: optional
+Section: default
+Filename: pool/main/g/glassy-music-nankill/glassy-music-nankill_4.1.1_amd64.deb
+Size: 121661864
+SHA256: 9a0f85389e543675f901d96c9dc08d8dfb3fe000a8a30b64a29aa9c1128a882f
+SHA1: 39983b5daf24e8972849efc5d673742eebc8fa5c
+MD5sum: 14f01be9c60ee5647700b2ef91f7f403
+Description: 
+  Glassy Music is extension for music player
+
 Package: librewolf
 Version: 160.0-1
 License: MPL
@@ -101,6 +181,68 @@ Description: Terminal moderna, ligera y esponjosa
  personalización avanzada de colores y una interfaz extremadamente elegante y nativa.
  .
  Ideal para Canaima, Debian y cualquier entorno GTK.
+
+Package: onlyoffice-desktopeditors
+Version: 10.0.0-169
+Architecture: amd64
+Maintainer: Ascensio System SIA <support@onlyoffice.com>
+Installed-Size: 1067031
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: x11-common, libasound2, curl, libcups2 | libcups2t64, desktop-file-utils, gstreamer1.0-libav, gstreamer1.0-plugins-ugly, libxss1, libatk1.0-0, libgtk-3-0, libcairo2, libstdc++6 (>= 4.8), libxkbcommon-x11-0, libnotify4, fonts-dejavu | ttf-dejavu, fonts-liberation, fonts-crosextra-carlito, xdg-utils
+Recommends: ttf-mscorefonts-installer, fonts-takao-gothic
+Suggests: onlyoffice-desktopeditors-help
+Conflicts: onlyoffice-desktopeditors-enterprise
+Provides: onlyoffice-desktopeditors
+Priority: optional
+Section: editors
+Filename: pool/main/o/onlyoffice-desktopeditors/onlyoffice-desktopeditors_10.0.0-169_amd64.deb
+Size: 279357060
+SHA256: 2190edb4022a2ac2f6eee0f78815520f0e4ece1e8a1097c645a6f9b225c8b59c
+SHA1: b99eb5a00111ef9d6d65ced6ee0cc322da1bb85e
+MD5sum: 216a2101508495b617a3ce4537d310af
+Description: Desktop editors for text docs, spreadsheets, presentations, PDFs, and PDF forms.
+ Open-source office suite pack that comprises all the tools you need to
+ work offline with documents, spreadsheets, presentations, PDFs, and PDF forms.
+
+Package: opencode
+Version: 2.3.0
+License: MIT
+Vendor: OpenCode <hello@opencode.ai>
+Architecture: amd64
+Maintainer: OpenCode <hello@opencode.ai>
+Installed-Size: 769766
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://opencode.ai
+Priority: optional
+Section: default
+Filename: pool/main/o/opencode/opencode_2.3.0_amd64.deb
+Size: 249209612
+SHA256: 9800ce8bb48dfebabb090ecb7f7ffc2f565472c97c687d16a703f5bf05bc4496
+SHA1: a3c8cdc11423b16437dba945ef903336514942c6
+MD5sum: 08aba3805d42eb7a6086e53ce226d4bc
+Description: 
+ .
+
+Package: openmausbot
+Version: 0.1.154
+License: Apache-2.0
+Vendor: OpenMausBot
+Architecture: amd64
+Maintainer: Milind Soni <46266943+milind-soni@users.noreply.github.com>
+Installed-Size: 904229
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, apparmor
+Recommends: libappindicator3-1
+Homepage: https://github.com/milind-soni/OpenMausBot
+Priority: optional
+Section: utils
+Filename: pool/main/o/openmausbot/openmausbot_0.1.154_amd64.deb
+Size: 275668100
+SHA256: c5f2c680801fdd99173769e52898fde3f2556fe88b2c62977c4dafa8c67229ad
+SHA1: dfb1f1be96e1b302fe7eaa850e2b40a0dd1f994a
+MD5sum: aeeeaf35262997804c4e81f8c961929e
+Description: Your own team of AI bots, in a chat app
+  A local-first chat app for running a team of AI agents.
 
 Package: protonvpn-beta-release
 Version: 1.0.10
