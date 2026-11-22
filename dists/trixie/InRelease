@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: miOS GNU/Linux
 Label: miOS Official Repository
 Codename: trixie
-Date: Sun, 22 Nov 2026 01:31:26 UTC
+Date: Sun, 22 Nov 2026 02:16:48 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)
@@ -31,17 +31,17 @@ SHA256:
  e6c0c3b7146c7c817c3bf1ac5884747fc4c4479529848140814d713acdd7016c 166 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsCRfoACgkQHX4eNXrv
-9WnfkxAApWIQsQ5oQHG4fgSucAKc/txon/+XGvfTa4XZqdkGzHbPcuECSTF9WlTJ
-Q2h2SiTt4AYzgWliALZEODkKG+NAqRvucJtG9iq3gQ0aNq4edjiIkJaF2eyJJqe9
-2w/9XeMUUDRQ15dCjnXCbQI+0wRWaiCrCAI3/wxt6/gmtGi9sTrveDmyQN8JdUQU
-TkWpSt6hennsVhxH43jU4cjhoyB5qLoFXRGoSML65fr23Lw67bhJPDr+m/9EJ5ZK
-1TrIiC5cf21Jbzo5lJf/RM8jtUx/W8+zh1NrZeoUNYLcOP9s+dPSpxCPQQms6i1E
-0+hHfvLBPXRKTNDQ7CAqb3l4p8Smho5TcUBxpkAWJy7CuPrUGNL+sic87BOH0NEW
-dU3KOafsmFapGmweV4XedKctj0wJYl9Ai7OGwH2Tdzt4G86p4z+mTewf9gNDtOPW
-pL9PCaJNMITgvdu7ghbVCrOxeAl6qzYThwChxyL2AvK/ANkHRizqbYNGIGeM07Wq
-KK6wVNyi9zBHAuvH4tVGzia8uCu5NnM2etWmwFHzNXeakyybjvLF3iXW7RE7/8EK
-AYE61ER8SmzJjjvihI81Tihu3eJ2luNJl2aPjXYd1jWBi/XeVkCujdtyPn4F5/9x
-dDnENhcjfbm+5AIEHXLVtfLq+U5/5DLz7jR/C5FzmSLxiqXCjx0=
-=LLKA
+iQIzBAEBCgAdFiEEX0Dmnt7Byn7cZKkkHX4eNXrv9WkFAmsCUJEACgkQHX4eNXrv
+9WlaZg/+PeDYgbheK48Y3Mj9SjRDZ+bHIqlGy/oYwf888CduIVxmNB4dJIcUMVPl
+tVd8Qhh+0Aeet9unVGvtwZla1XGBLYGvihvbdPeNiBvRMixvzYQvZtVsBd0xTZ2R
+l1Lsxs6MSVHhHxQKLdxz9xbhsQ7wlCfqzebCNwsGecReZ1uemhLbLHaKvQC857J2
+Lfsh/T9ZvNoK8+6k6kJQqHrtv5YqWOMPCqqmI1PXET12xu042MUlQFe2DpfwE1DP
+G6HcF+USW6RdV/oLuxfAYP2FZ/7kxIBKn67MNecAxF9u+IQWtm0oYRTos5Wfqtim
+PrgnwlPa2k74ddY9yPxl0ArRmTRIkJhPi8UMMTJLtK8cXErMD9gjusEXLRl6Q5x5
++wI5BwUG8jS53qPygbCavENhEogGbOtbXEcFdNKGeAVG4jaifdx37vJQX9ixCoD+
+CIORTFqxoGGk3yQ4M4dAzMIRevVFVqnC5ZfbNhwFv3XM7AEB5YZ8WU2kI/vsqgHv
+HBHVFR3VpujkstPjs6c/qeaI46ndgJ0bEZAIWkupc9TpN2fjr/y/2/14mmiA6SYL
+BHn4194WAu5x15cbGR2xtUpzMkoeEMOzgutThYhXhERSC8INazCJWVxR6tqI8Veu
+qDFPkr3gD61XhdibYgD0sOg2f+R0DK7wDwdOx/obfTPVcs9V3O8=
+=i0gI
 -----END PGP SIGNATURE-----
