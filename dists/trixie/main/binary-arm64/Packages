@@ -45,3 +45,22 @@ Description: miOS GNU/Linux desktop system metapackage
  Installs and tracks the essential miOS identity and repository configuration.
 Homepage: https://mios-repo.pages.dev
 
+Package: protonvpn-beta-release
+Version: 1.0.10
+Architecture: all
+Maintainer: Proton Technologies AG <opensource@proton.me>
+Installed-Size: 19
+Depends: gnupg | gnupg2, apt-transport-https
+Recommends: gpgv
+Breaks: protonvpn-stable-release
+Replaces: protonvpn-stable-release
+Homepage: https://protonvpn.com/
+Priority: optional
+Section: libs
+Filename: pool/main/p/protonvpn-beta-release/protonvpn-beta-release_1.0.10_all.deb
+Size: 5158
+SHA256: c8986b908898d06f9bdd3660718f1087282409a62c8d9059f67fc78b263bc6fb
+SHA1: 3e5bbcff9c4a555c44caa036b7e3f98c04b0270b
+MD5sum: 3dae380099f5c648bb8022c5337be680
+Description: Package to install ProtonVPN GPG key and beta repo
+

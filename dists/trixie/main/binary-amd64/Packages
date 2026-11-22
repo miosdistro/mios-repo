@@ -1,3 +1,23 @@
+Package: glass-music
+Version: 3.0.0
+License: unknown
+Vendor: Glass Music Team <info@glassmusic.app>
+Architecture: amd64
+Maintainer: Glass Music Team <info@glassmusic.app>
+Installed-Size: 391809
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://github.com/glass-music/app
+Priority: optional
+Section: default
+Filename: pool/main/g/glass-music/glass-music_3.0.0_amd64.deb
+Size: 88427530
+SHA256: 21ae12f300179cc6b2d375880a26b0ecba40611d69310be4ba5da26fe0516bf7
+SHA1: 0973afdfb59076ac2ad0487d1a0f27ffe7543217
+MD5sum: 76f489a529ca7f41683f614484f5e452
+Description: 
+  A futuristic, liquid-glass aesthetic music player for Linux
+
 Package: localsend
 Maintainer: Tienisto <dev.tien.donam@gmail.com>
 Version: 1.18.2+64
@@ -63,4 +83,23 @@ MD5sum: 119497848864690dd6577456ac0da641
 Description: miOS GNU/Linux desktop system metapackage
  Installs and tracks the essential miOS identity and repository configuration.
 Homepage: https://mios-repo.pages.dev
+
+Package: protonvpn-beta-release
+Version: 1.0.10
+Architecture: all
+Maintainer: Proton Technologies AG <opensource@proton.me>
+Installed-Size: 19
+Depends: gnupg | gnupg2, apt-transport-https
+Recommends: gpgv
+Breaks: protonvpn-stable-release
+Replaces: protonvpn-stable-release
+Homepage: https://protonvpn.com/
+Priority: optional
+Section: libs
+Filename: pool/main/p/protonvpn-beta-release/protonvpn-beta-release_1.0.10_all.deb
+Size: 5158
+SHA256: c8986b908898d06f9bdd3660718f1087282409a62c8d9059f67fc78b263bc6fb
+SHA1: 3e5bbcff9c4a555c44caa036b7e3f98c04b0270b
+MD5sum: 3dae380099f5c648bb8022c5337be680
+Description: Package to install ProtonVPN GPG key and beta repo
 
