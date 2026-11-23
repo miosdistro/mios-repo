@@ -148,33 +148,33 @@ Description: miOS GNU/Linux system identity files
 Homepage: https://mios-repo.pages.dev
 
 Package: mios-desktop
-Version: 2.2
+Version: 2.3
 Architecture: all
 Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
-Depends: mios-base-files (= 1:2.1+mios1), mios-archive-keyring (= 2.1), mios-discover-integration (= 1.0.1)
+Depends: mios-base-files (= 1:2.1+mios1), mios-archive-keyring (= 2.1), mios-discover-integration (= 1.0.2)
 Priority: optional
 Section: metapackages
-Filename: pool/main/m/mios-desktop/mios-desktop_2.2_all.deb
+Filename: pool/main/m/mios-desktop/mios-desktop_2.3_all.deb
 Size: 656
-SHA256: e22f07d39ef59c643371b005daa887326e386d1679eda490c35853841ef4fea9
-SHA1: 030506f7098fa85ad7a944ed5284e238fcc7537e
-MD5sum: 72e46ffef72e29d47af465b562e3e90e
+SHA256: 0c13bd68299299f6253308899f571296e6d0c790be8febfa75841974f5e174e4
+SHA1: 704c54e159ee0503c83572014e5eaf09b99133b8
+MD5sum: 45f7f4fd82f7ee4261f2f5d6572e1b3d
 Description: miOS GNU/Linux desktop system metapackage
  Installs and tracks the essential miOS identity and repository configuration.
 Homepage: https://mios-repo.pages.dev
 
 Package: mios-discover-integration
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
 Depends: appstream, packagekit-tools, curl, ca-certificates
 Priority: optional
 Section: admin
-Filename: pool/main/m/mios-discover-integration/mios-discover-integration_1.0.1_all.deb
-Size: 1588
-SHA256: 5838ffa307deef9de5683d8449ba70ee40f869de10193a7f02e15e7c1657a423
-SHA1: 7eba4f08cfbc029731659e91f2d926e076cd037b
-MD5sum: c37a6f82bf386b0e984c963ce7c0e740
+Filename: pool/main/m/mios-discover-integration/mios-discover-integration_1.0.2_all.deb
+Size: 1890
+SHA256: ea52e784cd43a9c41fb0e6021779a9d0e7c3e9415defcd9889c12ed619d894ed
+SHA1: a7e11966fefc331956510985010430def83f3bbf
+MD5sum: 954237ea93d9f1a9117bc445ba1ba34e
 Description: Configure and refresh miOS AppStream catalog for Discover
  Downloads the miOS DEP-11 catalog, links it for AppStream, and refreshes
  AppStream and PackageKit after APT updates.
