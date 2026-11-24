@@ -30,36 +30,36 @@ Description: miOS GNU/Linux system identity files
 Homepage: https://mios-repo.pages.dev
 
 Package: mios-desktop
-Version: 2.3
+Version: 2.4
 Architecture: all
 Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
-Depends: mios-base-files (= 1:2.1+mios1), mios-archive-keyring (= 2.1), mios-discover-integration (= 1.0.2)
+Depends: mios-base-files (= 1:2.1+mios1), mios-archive-keyring (= 2.1), mios-discover-integration (= 1.0.3)
 Priority: optional
 Section: metapackages
-Filename: pool/main/m/mios-desktop/mios-desktop_2.3_all.deb
-Size: 656
-SHA256: 0c13bd68299299f6253308899f571296e6d0c790be8febfa75841974f5e174e4
-SHA1: 704c54e159ee0503c83572014e5eaf09b99133b8
-MD5sum: 45f7f4fd82f7ee4261f2f5d6572e1b3d
+Filename: pool/main/m/mios-desktop/mios-desktop_2.4_all.deb
+Size: 660
+SHA256: 5e8385c6644e50376fb962ac0932f02c087ec9ab7a8faa9d236cde996ff755d2
+SHA1: 946023afbad19aacf87e8e96fe57a69c8cab298e
+MD5sum: cbe68a6378c6af901226ef51b094b938
 Description: miOS GNU/Linux desktop system metapackage
  Installs and tracks the essential miOS identity and repository configuration.
 Homepage: https://mios-repo.pages.dev
 
 Package: mios-discover-integration
-Version: 1.0.2
+Version: 1.0.3
 Architecture: all
 Maintainer: miOS GNU/Linux <packages@mios-repo.pages.dev>
-Depends: appstream, packagekit-tools, curl, ca-certificates
+Depends: appstream, curl, ca-certificates
 Priority: optional
 Section: admin
-Filename: pool/main/m/mios-discover-integration/mios-discover-integration_1.0.2_all.deb
-Size: 1890
-SHA256: ea52e784cd43a9c41fb0e6021779a9d0e7c3e9415defcd9889c12ed619d894ed
-SHA1: a7e11966fefc331956510985010430def83f3bbf
-MD5sum: 954237ea93d9f1a9117bc445ba1ba34e
+Filename: pool/main/m/mios-discover-integration/mios-discover-integration_1.0.3_all.deb
+Size: 1860
+SHA256: a9cd40d24c82a232ca30923f39e34dde9920616ad4e7c2bb050e5a6cab3abb43
+SHA1: bca4942bc2fdc654077448231fe17fb93f6ba522
+MD5sum: 16c9f034e5526ed1e3b295d7e7079227
 Description: Configure and refresh miOS AppStream catalog for Discover
  Downloads the miOS DEP-11 catalog, links it for AppStream, and refreshes
- AppStream and PackageKit after APT updates.
+ the AppStream cache after APT updates.
 Homepage: https://mios-repo.pages.dev
 
 Package: mios-terminal

@@ -1,28 +1,31 @@
 Origin: miOS GNU/Linux
 Label: miOS Official Repository
 Codename: trixie
-Date: Tue, 24 Nov 2026 00:19:08 UTC
+Date: Tue, 24 Nov 2026 00:33:58 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repositorio oficial de miOS GNU/Linux (Base Debian 13 Trixie)
 MD5Sum:
- 2bef745fe58f1073e7e3ef00bddfe6a5 11567 main/binary-amd64/Packages
- 3f558f9e9e84ae6950d8bea430fbd2aa 4505 main/binary-amd64/Packages.gz
+ 0f9920458f9ef6275f86f48890f79af4 11544 main/binary-amd64/Packages
+ 6b3cd94dbba0b3c05d5146172b76c6d2 4495 main/binary-amd64/Packages.gz
  6ef567890716765c4855a45d12804a31 166 main/binary-amd64/Release
- d656d48a518a802d2390602f8a31dcc7 3817 main/binary-arm64/Packages
- 0fe68d3d40afc6383f84bded87741b97 1615 main/binary-arm64/Packages.gz
+ bc574657bc964271186e83a5ba09f3f9 3794 main/binary-arm64/Packages
+ 440149a99cbb827c1cd95033edf023d1 1602 main/binary-arm64/Packages.gz
  64ac2f410b067adde4960acc64370c7c 166 main/binary-arm64/Release
+ fe45aa48212eb0f8c933728c72910867 1859 main/dep11/Components-amd64.yml.gz
 SHA1:
- 09b7544d5c7521653063ac56c5c85e2ddf77e857 11567 main/binary-amd64/Packages
- 52d8ec7dd2c14c35f1acd0635e0a37b7816ad8e9 4505 main/binary-amd64/Packages.gz
+ 0b2c454ee17d8ab275339ffd087486211a078c5e 11544 main/binary-amd64/Packages
+ 76514beb48b1d64140930f9607a5b623a7b173c9 4495 main/binary-amd64/Packages.gz
  60c81114dc754927422d5aad4050ffd7d8b29222 166 main/binary-amd64/Release
- 2baf8f836eb92d3926c96d73e80bddfcb6a40477 3817 main/binary-arm64/Packages
- d72be2f41611f6a512ceba75ec38830b19011c53 1615 main/binary-arm64/Packages.gz
+ a119a532e25b287b2c54b83773270485e548d40e 3794 main/binary-arm64/Packages
+ 0b534906c333f9a7d6658f33a59e8608bc78062f 1602 main/binary-arm64/Packages.gz
  430365e4ebacc870ae72ae935bdb5aa2883707d4 166 main/binary-arm64/Release
+ 9b21680b6e092c465a4da72c10fbd2264398c0a3 1859 main/dep11/Components-amd64.yml.gz
 SHA256:
- ba70245c06e9164ed93c9d89e50f169b4fccede3ad3b495990d3d8c67526d050 11567 main/binary-amd64/Packages
- 977880b7932a17d0e992f152a7cfc7720449124df0d6d7164507ecedfafad6fb 4505 main/binary-amd64/Packages.gz
+ 5881d6da3aec99cc6d4c3d92170641d323ae1209b9510906a921984fb022c026 11544 main/binary-amd64/Packages
+ ec4f1a667489c5a01f0de3ad786c8f6db72c1f9d1fd98db69db6cdcf89904508 4495 main/binary-amd64/Packages.gz
  3e2235923f1afbc3811d99206b65bb05ca99e1a4fa6de701cbbc3caaec7671dd 166 main/binary-amd64/Release
- fd7e09be62a0c79c200d35cbf4b33b3753749dd0d7a7949272e17fcaad0b46ff 3817 main/binary-arm64/Packages
- e5666ef54476098732779947b0b7fca597214b168820e4e6ec61f7d2317ad61a 1615 main/binary-arm64/Packages.gz
+ f2f73884ff19032517c246c0782308058f00649cc412de4bd563d0173aea19ba 3794 main/binary-arm64/Packages
+ 3dcae799fc1e3e894d5137d2d12b9922faa01d930b0f06d1fd3e97f4ea1206eb 1602 main/binary-arm64/Packages.gz
  e6c0c3b7146c7c817c3bf1ac5884747fc4c4479529848140814d713acdd7016c 166 main/binary-arm64/Release
+ 75401f7f66c3e94f4badf86be674902d94017a653069b8782c69976f77c4edc8 1859 main/dep11/Components-amd64.yml.gz
